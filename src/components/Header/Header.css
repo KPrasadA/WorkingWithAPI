@@ -1,0 +1,9 @@
+.Navlink{
+    text-decoration: none;
+    color: black;
+    margin-left: 20px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    margin-top: 10px;
+}
